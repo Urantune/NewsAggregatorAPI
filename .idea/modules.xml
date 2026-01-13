@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API-getnews/API-getnews.iml" filepath="$PROJECT_DIR$/API-getnews/API-getnews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clawer-news/clawer-news.iml" filepath="$PROJECT_DIR$/clawer-news/clawer-news.iml" />
+    </modules>
+  </component>
+</project>
